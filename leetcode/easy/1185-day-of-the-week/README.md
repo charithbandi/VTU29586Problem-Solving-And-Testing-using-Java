@@ -48,8 +48,8 @@ Output: "Sunday"
 
 **Language:** Java  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 42.3 MB (beats 92.77%)  
-**Submitted:** 2026-08-10T06:51:37.840Z  
+**Memory:** 42.4 MB (beats 69.68%)  
+**Submitted:** 2026-08-10T06:52:04.559Z  
 
 ```java
 class Solution {
