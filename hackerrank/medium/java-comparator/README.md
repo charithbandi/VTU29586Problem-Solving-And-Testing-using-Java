@@ -32,7 +32,7 @@ You are not responsible for printing any output to stdout. The locked stub code 
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-03T06:08:23.437Z  
+**Submitted:** 2026-08-11T06:22:06.046Z  
 
 ```java
 
@@ -48,7 +48,7 @@ class Checker implements Comparator<Player> {
             return a.name.compareTo(b.name);
         }
         
-        // Otherwise, sort by score decreasing (highest first)
+        // Otherwise, sort by score in descending order (highest score first)
         return Integer.compare(b.score, a.score);
     }
 }
