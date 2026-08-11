@@ -11,7 +11,7 @@ class Checker implements Comparator<Player> {
             return a.name.compareTo(b.name);
         }
         
-        // Otherwise, sort by score decreasing (highest first)
+        // Otherwise, sort by score in descending order (highest score first)
         return Integer.compare(b.score, a.score);
     }
 }
