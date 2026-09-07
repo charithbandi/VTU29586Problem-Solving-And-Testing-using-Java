@@ -28,14 +28,12 @@
 
 ## 📖 About
 
-This repository contains my weekly Java programming solutions for the **VTU (Visvesvaraya Technological University)** course **"Problem Solving and Testing using Java"** (Course Code: **29586**).
+This repository contains my weekly Java programming solutions for the **VTU (VelTech University)** course **"Problem Solving and Testing using Java"** (**29586**).
 
 Problems are sourced from:
 - 🟡 **LeetCode** — Arrays, Strings, Sorting, Sliding Window, and more
 - 🟢 **HackerRank** — Java-specific challenges (Comparators, Lambdas, Sorting, Deque)
-- 🔵 **VTU Lab Exercises** — Curriculum-aligned programming problems
 
-Solutions are auto-pushed to this repository via **[PushMyCode](https://github.com/PushMyCode-HQ)** — no manual commits needed.
 
 ---
 
