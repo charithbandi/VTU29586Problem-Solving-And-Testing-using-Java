@@ -57,7 +57,7 @@ When executed, your completed code should print the following:
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-20T16:23:56.816Z  
+**Submitted:** 2026-11-20T16:24:17.597Z  
 
 ```java
 import java.io.*;
